@@ -31,7 +31,7 @@ object SendMessageAttachment {
     @JvmStatic
     fun main(args: Array<String>) {
         val sender = ""
-        val recipient = ""
+        val recipient = "" //comma separated
         val subject = "test"
 
         val name = "Name"
